@@ -1,7 +1,0 @@
-User-Agent: *
-Disallow: /page2525301.html
-Disallow: /page2525370.html
-Disallow: /page2651332.html
-Disallow:
-Sitemap: http://bsoft.biz/sitemap.xml
-Host: bsoft.biz
