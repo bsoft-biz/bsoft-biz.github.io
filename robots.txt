@@ -4,4 +4,4 @@ Disallow: /page2525370.html
 Disallow: /page2651332.html
 Disallow:
 Sitemap: http://project600316.tilda.ws/sitemap.xml
-Host: project600316.tilda.ws
+Host: bsoft.biz
