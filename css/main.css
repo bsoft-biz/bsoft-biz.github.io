@@ -1,0 +1,37 @@
+:root {
+}
+
+body {
+  background: var(--background);
+}
+
+.theme-system {
+  --brand-color: #00995e;
+  --background: #f1ece4;
+}
+
+.info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100%;
+  justify-content: center;
+  text-align: center;
+}
+
+.hero {
+  margin: 1em 0.25em;
+}
+
+.info-item {
+  margin: 0.25em;
+  text-decoration: none;
+}
+
+.mail {
+  color: var(--brand-color);
+}
+
+.tel {
+  color: black;
+}
